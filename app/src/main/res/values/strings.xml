@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidAppLinksExample</string>
+    <string name="asset_statements">[{   \"relation\": [\"delegate_permission/common.handle_all_urls\"],   \"target\" : { \"namespace\": \"android_app\", \"package_name\": \"com.example.androidapplinksexample\",                \"sha256_cert_fingerprints\": [\"2B:D6:BC:55:04:C2:73:BB:CD:CF:5D:F5:AD:50:02:78:10:64:6D:A2:EA:C3:7B:FE:38:99:3B:4B:63:AA:CC:AE\"] } }]</string>
+
+</resources>
